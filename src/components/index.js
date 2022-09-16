@@ -8,7 +8,7 @@ import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
-import Testimonials from "./Testimonials";
+import Testimonios from "./Testimonios";
 import Principal from "./Principal";
 
 export {
@@ -20,6 +20,6 @@ export {
   CTA,
   Stats,
   Footer,
-  Testimonials,
+  Testimonios,
   Principal,
 };
