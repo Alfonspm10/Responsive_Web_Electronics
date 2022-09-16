@@ -1,23 +1,25 @@
+///Nueva forma de realizar el export, acordarse del cambio
+
 import Navbar from "./Navbar";
-import Billing from "./Billing";
+import Pagos from "./Pagos";
 import CardDeal from "./CardDeal";
-import Business from "./Business";
+import Negocios from "./Negocios";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
-import Hero from "./Hero";
+import Principal from "./Principal";
 
 export {
   Navbar,
-  Billing,
+  Pagos,
   CardDeal,
-  Business,
+  Negocios,
   Clients,
   CTA,
   Stats,
   Footer,
   Testimonials,
-  Hero,
+  Principal,
 };
