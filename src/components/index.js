@@ -2,9 +2,8 @@
 
 import Navbar from "./Navbar";
 import Pagos from "./Pagos";
-import CardDeal from "./CardDeal";
 import Negocios from "./Negocios";
-import Clients from "./Clients";
+import Clientes from "./Clientes";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
@@ -14,9 +13,8 @@ import Principal from "./Principal";
 export {
   Navbar,
   Pagos,
-  CardDeal,
   Negocios,
-  Clients,
+  Clientes,
   CTA,
   Stats,
   Footer,

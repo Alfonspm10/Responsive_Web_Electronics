@@ -90,3 +90,111 @@ export const opiniones = [
     img: people03,
   },
 ];
+
+export const footerLinks = [
+  {
+    title: "Links de utilidad",
+    links: [
+      {
+        name: "Contenido",
+        link: "https://www.hoobank.com/content/",
+      },
+      {
+        name: "Como funciona",
+        link: "https://www.hoobank.com/how-it-works/",
+      },
+      {
+        name: "Crear",
+        link: "https://www.hoobank.com/create/",
+      },
+      {
+        name: "Explorar",
+        link: "https://www.hoobank.com/explore/",
+      },
+      {
+        name: "Termimons & Servicios",
+        link: "https://www.hoobank.com/terms-and-services/",
+      },
+    ],
+  },
+  {
+    title: "Comunidad",
+    links: [
+      {
+        name: "Centro de ayuda",
+        link: "https://www.hoobank.com/help-center/",
+      },
+      {
+        name: "Partners",
+        link: "https://www.hoobank.com/partners/",
+      },
+      {
+        name: "Sugerencias",
+        link: "https://www.hoobank.com/suggestions/",
+      },
+      {
+        name: "Blog",
+        link: "https://www.hoobank.com/blog/",
+      },
+      {
+        name: "Noticias",
+        link: "https://www.hoobank.com/newsletters/",
+      },
+    ],
+  },
+  {
+    title: "Partners",
+    links: [
+      {
+        name: "Nuestros Partner",
+        link: "https://www.hoobank.com/our-partner/",
+      },
+      {
+        name: "Conviertete en Partner",
+        link: "https://www.hoobank.com/become-a-partner/",
+      },
+    ],
+  },
+];
+
+export const socialMedia = [
+  {
+    id: "social-media-1",
+    icon: instagram,
+    link: "https://www.instagram.com/",
+  },
+  {
+    id: "social-media-2",
+    icon: facebook,
+    link: "https://www.facebook.com/",
+  },
+  {
+    id: "social-media-3",
+    icon: twitter,
+    link: "https://www.twitter.com/",
+  },
+  {
+    id: "social-media-4",
+    icon: linkedin,
+    link: "https://www.linkedin.com/",
+  },
+];
+
+export const clientes = [
+  {
+    id: "client-1",
+    logo: airbnb,
+  },
+  {
+    id: "client-2",
+    logo: binance,
+  },
+  {
+    id: "client-3",
+    logo: coinbase,
+  },
+  {
+    id: "client-4",
+    logo: dropbox,
+  },
+];
